@@ -314,7 +314,7 @@ shapes_data.sort(key=shape_sort_key)  # kleine oben (werden später gezeichnet)
 # -------- Pygame / GUI Setup --------
 pygame.init()
 screen = pygame.display.set_mode(myappdatac.WINDOW_SIZE)
-pygame.display.set_caption("Kennst du die Schweizer Kantone?")
+pygame.display.set_caption("Findest du alle Schweizer Kantone?")
 
 manager = pygame_gui.UIManager(myappdatac.WINDOW_SIZE, theme_path='theme.json')
 
