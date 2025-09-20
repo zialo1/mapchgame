@@ -1,7 +1,8 @@
 #!python
 # mapchgame: eine einfache klickbare Karte. Zeigt Kantonsnamen beim anklicken an.
-# (C) 2025 Alex Hanselmann, code with help of ChatGPT
+# (C) 2025 Alex Hanselmann, code with help from ChatGPT
 # version 0.1 - 2025-09-20
+# 2do: einen label mit "klicke auf eine Gewässer anbieten". wenn angeklickt werden nur gewässer gezeigt. umschaltknopf.
 # benötigt: pyshp, pygame, pygame_gui
 # Lizenz: MIT
 # Geo-Daten: swisstopo (swissBOUNDARIES3D)
